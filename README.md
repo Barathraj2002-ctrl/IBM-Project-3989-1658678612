@@ -10,7 +10,7 @@
 # Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   | **Gayathri R**     |
+| Team Leader   | **Barath Raj T**     |
 | Team Member 1 | **Keshavardhini J**   |
 | Team Member 2 | **Rajesh kannan C**|
 | Team Member 3 | **Dhilipan R**       |
